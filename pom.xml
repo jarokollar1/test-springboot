@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.eviden</groupId>
 	<artifactId>springboot-sample-rest</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>springboot-sample-rest</name>
 	<description>Demo project for Spring Boot Rest API</description>
 	<url/>
